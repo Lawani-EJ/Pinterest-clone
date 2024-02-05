@@ -34,4 +34,4 @@ The Pinterest Clone Project is not your average coding exercise—it's a canvas 
 1. Strap in and clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/pinterest-clone.git
+   git clone https://github.com/Lawani-EJ/Pinterest-clone.git
