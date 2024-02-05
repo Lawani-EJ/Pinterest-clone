@@ -24,6 +24,22 @@ The Pinterest Clone Project is not your average coding exercise—it's a canvas 
 - A carousel-like experience that keeps users engaged
 - Spice it up by integrating videos within grid items
 
+
+## 📸 Screenshots
+
+Here are some snapshots from the Pinterest Clone Project to give you a sneak peek into the magic:
+
+1. **Grid Layout with Hover Effects:**
+![Screenshot-1](<screenshots/Screenshot 2024-02-04 144337.png>)
+
+2. **Responsive Design in Action:**
+![Screenshot-2](<screenshots/Screenshot 2024-02-04 144538.png>)
+![Screenshot-3](<screenshots/Screenshot 2024-02-04 144701.png>)
+
+3. **Carousel-Like Experience:**
+![Screenshot-4](<screenshots/Screenshot 2024-02-04 144607.png>)
+
+
 ## 🚀 Technologies Used
 
 - HTML
