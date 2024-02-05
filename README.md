@@ -1,6 +1,6 @@
 # 🚀 Pinterest Clone Project
 
-Welcome to the Pinterest Clone Project, a thrilling adventure in web development! 🎉 This project is not just another code repository—it's a journey into the heart of Pinterest's magic. Get ready to boost your HTML, CSS, and JavaScript skills and create a stunning, interactive user interface that mirrors the awesomeness of the official Pinterest website.
+Welcome to the Pinterest Clone Project, a thrilling adventure in web development! 🎉 This project is not just another code repository it's a journey into the heart of Pinterest's magic. A stunning, interactive user interface that mirrors the awesomeness of the official Pinterest website.
 
 ## 📌 Table of Contents
 
